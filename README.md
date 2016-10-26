@@ -1,2 +1,2 @@
-# templates.ebextension
-Template of AWS ElasticBeanstalk .ebextension configuration files
+# templates.ebextensions
+Template of AWS ElasticBeanstalk .ebextensions configuration files.
